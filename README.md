@@ -4,6 +4,17 @@ ACN Munchkin game
 Global rules
 ------------
 
+Card description syntax:
+
+    [TYPE] **Name** (Modifier) _Fluff_ Description
+
+where,
+
+* **TYPE** is one of Monster, Curse/Trap, Monster Enhancer, Class, Race, Helpers, Other
+* **Name** is unique name of card
+* **Modifier** is either positive or negative modifier for players stats
+* **Fluff** any description of background to make game more fun
+* **Description** card mechanics description or extra conditions for play
 
 Doors (100 cards)
 -----------------
