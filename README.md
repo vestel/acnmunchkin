@@ -10,26 +10,28 @@ Card description syntax:
 
 where,
 
-* **TYPE** is one of Monster, Curse/Trap, Monster Enhancer, Class, Race, Helpers, Other
+* **TYPE** for Doors is one of Monster, Curse/Trap, Monster Enhancer, Class, Race, Helpers, Other
+* **TYPE** for Treasures is one of Big Item, Small Item, One Shot, Go Up A Level, Other
 * **Name** is unique name of card
-* **Modifier** is either positive or negative modifier for players stats
-* **Fluff** any description of background to make game more fun
-* **Description** card mechanics description or extra conditions for play
+* _optional_ **Modifier** is either positive or negative modifier for players stats
+* _optional_ **Fluff** any description of background to make game more fun
+* _optional_ **Description** card mechanics description or extra conditions for play
 
 Doors (100 cards)
 -----------------
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+
+1. [Race] **Consulting** _`Fluff`_ `Description`
+2. [Race] **Consulting** _`Fluff`_ `Description`
+3. [Race] **Consulting** _`Fluff`_ `Description`
+4. [Race] **Enterprise** _`Fluff`_ `Description`
+5. [Race] **Enterprise** _`Fluff`_ `Description`
+6. [Race] **Enterprise** _`Fluff`_ `Description`
+7. [Race] **Technology** _`Fluff`_ `Description`
+8. [Race] **Technology** _`Fluff`_ `Description`
+9. [Race] **Technology** _`Fluff`_ `Description`
+9. [Race] **Outsourcing** _`Fluff`_ `Description`
+9. [Race] **Outsourcing** _`Fluff`_ `Description`
+12. [Race] **Outsourcing** _`Fluff`_ `Description`
 13.
 14.
 15.
