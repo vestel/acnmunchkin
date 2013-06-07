@@ -120,8 +120,8 @@ Doors (100 cards)
 96.
 97.
 98.
-99.
-100.
+99. [Big Item] **Client-provided laptop** (+5) _Pentium inside, bullshit outside_ *Usable by Technology or Consulting only* Now you are performing much faster, because no specific malware is running in background.
+100. [Curse] **Clean desk policy** _Clean Desk Policy is a part of our corporate culture and a way to save some pennies on organizing your workplaces_ All your items are removed by Facilities & Services squad. Discard all items cards you have in play, but keep those that are tapped.
 
 
 Treasures (58 cards)
@@ -132,7 +132,7 @@ Treasures (58 cards)
 2. [Go Up A Level] **Exceptional case** _`Fluff`_ `Description`
 1. [Go Up A Level] **Favourite of Senior Executive** _`Fluff`_ `Description`
 2. [Go Up A Level] **Can-do-everything attitude** _`Fluff`_ `Description`
-1. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
+1. [Go Up A Level] **Midyear promotion** _`Fluff`_ `Description`
 2. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
 2. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
 2. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
