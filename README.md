@@ -121,6 +121,7 @@ Doors (100 cards)
 97.
 98.
 99. [Big Item] **Client-provided laptop** (+5) _Pentium inside, bullshit outside_ *Usable by Technology or Consulting only* Now you are performing much faster, because no specific malware is running in background.
+0. [Curse] **Forgot enterprise password** _Please, hold until someone of our engineers answer your call_ You don't get any bonus for using any items with "laptop" or "desktop" in description, unless any card with work **Indian** comes to play. 
 100. [Curse] **Clean desk policy** _Clean Desk Policy is a part of our corporate culture and a way to save some pennies on organizing your workplaces_ All your items are removed by Facilities & Services squad. Discard all items cards you have in play, but keep those that are tapped.
 
 
