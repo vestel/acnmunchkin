@@ -17,10 +17,12 @@ where,
 * _optional_ **Fluff** any description of background to make game more fun
 * _optional_ **Description** card mechanics description or extra conditions for play
 
+If something is defined in (`) backticks, means `TODO`, so you can write if you have any ideas.
+
 Doors (100 cards)
 -----------------
 
-1. [Race] **Consulting** _`Fluff`_ `Description`
+1. [Race] **Consulting** _Consulting helps clients identify and deliver value with pace_ `Description`
 2. [Race] **Consulting** _`Fluff`_ `Description`
 3. [Race] **Consulting** _`Fluff`_ `Description`
 4. [Race] **Enterprise** _`Fluff`_ `Description`
@@ -125,16 +127,17 @@ Doors (100 cards)
 Treasures (58 cards)
 --------------------
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. [Go Up A Level] **Promotion party** _Keep away from those light whiskey shots_
+2. [Go Up A Level] **Midyear promotion** _`Fluff`_ `Description`
+2. [Go Up A Level] **Exceptional case** _`Fluff`_ `Description`
+1. [Go Up A Level] **Favourite of Senior Executive** _`Fluff`_ `Description`
+2. [Go Up A Level] **Can-do-everything attitude** _`Fluff`_ `Description`
+1. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
+2. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
+2. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
+2. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
+10. [Go Up A Level] **Promotion party** _`Fluff`_ `Description`
+11. [Go Up A Level] **Experienced hire** _Someone made a mistake, but we all are human._ Can be played only by first level. There was mistake in your employement agreement, means you been hired to one level higher, you currently are. If there is any **Enterprise** player she gets -5 for next combat.
 11.
 12.
 13.
